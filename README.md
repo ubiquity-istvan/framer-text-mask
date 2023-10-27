@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Text mask animation using framer motion
 
-Link to video tutorial.
+[`Link to tutorial.`](https://blog.olivierlarose.com/tutorials/text-mask-animation)
 
 ## Getting Started
 
